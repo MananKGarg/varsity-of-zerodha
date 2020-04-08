@@ -10,6 +10,7 @@ An asset class is a category of investment with a particular risk and return cha
   * Bonds issued by govt<br>
   * Bonds by govt entities like HUDCO, NHAI<br>
   * Bonds issued by corporates<br>
+  <br>
 
 2. **Equity**
   <br>
@@ -17,13 +18,13 @@ An asset class is a category of investment with a particular risk and return cha
   * Shares are traded on BSE and NSE<br>
   * Average returns are 14-15% CAGR (Compounded annual growth rate) for Indian companies<br>
   * Taxation on equity is 10% if the gains are more than 1 lakh and shares are held for more than 365 days<br>
-  
+  <br>
 3. **Real Estate**
 <br>
   * Buying and selling land either commercial or non commercial<br>
   * Sources of income are capital appreciation and rental income<br>
   * Cash outlay is high<br>
-  
+  <br>
 4. **Commodity - Bullion**
   <br>
   * Gold and Silver over long time<br>
